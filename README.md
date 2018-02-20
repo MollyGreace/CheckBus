@@ -273,7 +273,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
 
 
 
- ### C. Ideación**
+### C. Ideación
 
 **Actividades:**
 
@@ -301,7 +301,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
 
   - Esta técnica es una versión temprana y esquemática de la conversación que el usuario tiene con el producto, cuyo soporte es el texto. Realizar aquello nos permitió hacer foco de la estructura que tendrá nuestro producto (tener claro donde empezará y terminará el flujo de nuestro producto); ademas,nos permitió ver las fricciones a eliminar, lo que debemos simplificar en la interacción y los lugares en los que tenemos una oportunidad de deleitar al usuario. Para tener estos beneficios el prototype content se testeó (ver feedback en la etapa de E.- Actividades de testing).
 
-  - Archivo del prototype content: https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit?usp=sharing
+  - [Prototype Content](https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit?usp=sharing)
 
 
   **2.- Realización del Paper Prototyping versión-1 & Testing(06/02/2018)**
@@ -415,11 +415,11 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
 
 
 
- ### Presentación final
+### Presentación final
 
    [Presentación final](https://docs.google.com/presentation/d/1LnBKM7p9mY5F7B61CuI288OElfx6fKXQlF8CRVNpjdo/edit?usp=sharing)    
 
- ### Conclusiones
+### Conclusiones
 
     - La importancia de realizar una buena investigación y descubrimiento de las necesidades/problemas de los usuarios, a través de las diferentes herramientas, nos brindó la base sólida de nuestro proyecto, facilitándonos continuar con las diferentes etapas.
 
@@ -427,7 +427,7 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
 
     - La presentación del producto al público debe ofrecer una rápida, comprensible y sencilla solución a las necesidades/problemas identificados; antecedida de una breve narración de las etapas que nos conducieron al producto final, para atraer a los futuros usuarios y potenciales inversionistas.
 
- ### ETAPAS POSTERIORES  AL PROTOTIPADO EN PAPEL (MVP)
+### ETAPAS POSTERIORES  AL PROTOTIPADO EN PAPEL (MVP)
 
 #### A.- SÍNTESIS
 
